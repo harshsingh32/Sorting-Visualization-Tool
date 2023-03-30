@@ -28,6 +28,7 @@ The user interface includes the following controls:
 
 ## Screenshots
 
+
 ![Sorting Visualizer Screenshot](./sorting-visualizer-screenshot.png)
 
 ## Acknowledgements
