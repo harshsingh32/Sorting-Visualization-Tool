@@ -1,4 +1,4 @@
-# Sorting-Visualization-Too
+# Sorting-Visualization-Tool
 
 This is a web application that visualizes different sorting algorithms. The project includes an HTML file that can be run in a web browser to display the visualizer.
 
