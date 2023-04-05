@@ -81,6 +81,6 @@ function runalgo()
         case "Heap":Heap();
                         break;
     }
-}l
+}
 
 
