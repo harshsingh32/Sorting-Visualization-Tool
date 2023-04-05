@@ -10,7 +10,7 @@ To run the project, simply download the `index.html` file and open it in a web b
 
 The visualizer includes the following sorting algorithms:
 
-- Bubble sort
+- Bubble 
 - Selection sort
 - Insertion sort
 - Quicksort
