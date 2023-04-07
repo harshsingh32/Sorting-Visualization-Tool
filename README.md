@@ -16,7 +16,7 @@ The visualizer includes the following sorting algorithms:
 - Quicksort
 - Mergesort
 
-## User Interface
+## User Interfac
 
 The user interface includes the following controls:
 
