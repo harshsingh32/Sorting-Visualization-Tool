@@ -14,7 +14,7 @@ var margin_size;
 var cont=document.getElementById("array_container");
 cont.style="flex-direction:row";
 
-//Array generation and 
+//Array generation and updation.
 
 inp_gen.addEventListener("click",generate_array);
 inp_as.addEventListener("input",update_array_size);
