@@ -6,6 +6,8 @@ This is a web application that visualizes different sorting algorithms. The proj
 
 To run the project, simply download the `index.html` file and open it in a web browser. No additional dependencies or configuration is required.
 
+[🔗 Project](https://harshsingh32.github.io/Sorting-Visualization-Tool/)
+
 ## Included Sorting Algorithms
 
 The visualizer includes the following sorting algorithms:
