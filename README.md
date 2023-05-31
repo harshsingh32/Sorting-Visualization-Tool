@@ -1,6 +1,6 @@
 # Sorting-Visualization-Tool
 
-This is a web application that visualizes different sorting algorithms. The project includes an HTML file that can be run in a web browser to display the visualizer.
+This is a web application that visualizes different sorting algorithms. The project includes an HTML file that can be run in a web browser the visualizer.
 
 ## How to Run the Project
 
