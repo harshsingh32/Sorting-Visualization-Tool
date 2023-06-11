@@ -15,7 +15,7 @@ The visualizer includes the following sorting algorithms:
 - Bubble sort
 - Selection sort
 - Insertion sort
-- Quicksort
+- Quick sort
 - Mergesort
 
 ## User Interface
