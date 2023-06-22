@@ -4,7 +4,7 @@ This is a web application that visualizes different sorting algorithms. The proj
 
 ## How to Run the Project
 
-To run the project, simply download the `index.html` file and open it in a web browser. No additional dependencies or configuration is required.
+To run the project, simply download the `index.html` file and open it in a web browser. No additional dependencie or configuration is required.
 
 [🔗 Project](https://harshsingh32.github.io/Sorting-Visualization-Tool/)
 
