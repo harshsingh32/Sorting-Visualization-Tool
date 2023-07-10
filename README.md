@@ -37,8 +37,7 @@ The user interface includes the following controls:
 
 This project was inspired by the [Sorting Visualizer](https://github.com/clementmihailescu/Sorting-Visualizer) project by Clement Mihailescu. The project uses the [Bootstrap](https://getbootstrap.com/) CSS framework for styling.
 
-## Contributing
-
+## Contributin
 If you would like to contribute to the project, please submit a pull request with your changes. Bug reports and feature requests can be submitted through the project's issue tracker.
 
 ## License
