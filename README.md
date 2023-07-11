@@ -11,7 +11,6 @@ To run the project, simply download the `index.html` file and open it in a web b
 ## Included Sorting Algorithms
 
 The visualizer includes the following sorting algorithms:
-
 - Bubble sort
 - Selection sort
 - Insertion sort
