@@ -13,7 +13,7 @@ The visualizer includes the following sorting algorithms:
 - Selection sort
 - Insertion sort
 - Quick sort
-- Mergesort
+- Merge sort
 
 ## User Interface
 
